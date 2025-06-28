@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\SMART TECH\\.gradle\\daemon\\8.9\\com.example.webviewapp-merged_res-29:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\SMART TECH\\.gradle\\daemon\\8.9\\com.example.webviewapp-main-31:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.webviewapp-merged_res-29:/mipmap_hadi.jpg.flat",
+        "source": "com.example.webviewapp-main-31:/mipmap/hadi.jpg"
+    },
+    {
+        "merged": "C:\\Users\\SMART TECH\\.gradle\\daemon\\8.9\\com.example.webviewapp-merged_res-29:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\SMART TECH\\.gradle\\daemon\\8.9\\com.example.webviewapp-main-31:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\SMART TECH\\.gradle\\daemon\\8.9\\com.example.webviewapp-merged_res-29:\\mipmap_ic_launcher.png.flat",
+        "source": "C:\\Users\\SMART TECH\\.gradle\\daemon\\8.9\\com.example.webviewapp-main-31:\\mipmap\\ic_launcher.png"
+    },
+    {
+        "merged": "com.example.webviewapp-merged_res-29:/layout_activity_splash.xml.flat",
+        "source": "com.example.webviewapp-main-31:/layout/activity_splash.xml"
+    }
+]
